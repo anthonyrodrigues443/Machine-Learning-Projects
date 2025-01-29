@@ -46,7 +46,7 @@ Contact
     <td>This project involves building a clustering model to segment credit card customers based on their behavior and attributes and a classification model to predict new customer's clusters. The insights from the clusters enable personalized strategies, with a user-friendly Streamlit app for predictions and detailed analysis</td>
     <td>K-means clustering, Multiple classification models, Interactive web interface</td>
     <td>Python, seaborn, scikit-learn, XGBoost, Streamlit</td>
-    <td>-----------------</td>
+    <td><a href="https://github.com/Sharkytony/Credit-Card-Customer-Segmentation" target="_blank">View Repository</a></td>
   </tr>
 </table>
 <br>
