@@ -22,7 +22,7 @@ Contact
     <td>This project involves assessing credit risk by developing predictive models to classify borrowers based on their risk level. It includes comprehensive data preprocessing, model development, and pipeline creation for seamless implementation.</td>
     <td>Stratified K-Fold Cross-Validation, Ensemble models, Interactive pipelines</td>
     <td>Python, scikit-learn, Pandas, XGBoost, matplotlib</td>
-    <td><a href="https://github.com/Sharkytony/Credit_Risk_Assement_Project" target="_blank">View Repository</a></td>
+    <td><a href="https://github.com/anthonyrodrigues443/Credit_Risk_Assement_Project" target="_blank">View Repository</a></td>
   </tr>
   <tr><th colspan="5"><h3>REGRESSION</h3></th></tr>
   <tr><th>Project Name</th>    <th>Description</th>    <th>Key Features</th>    <th>Technologies</th>    <th>Repository link</th></tr>
@@ -31,7 +31,7 @@ Contact
     <td>A machine learning web application that predicts car prices based on various features like manufacturer, model year, mileage, and specifications. The project integrates a robust preprocessing pipeline and a Random Forest Regression model with a Flask-based interactive web interface.</td>
     <td>Decent accuracy given high dimensionality, feature engineering, EDA based data cleaning </td>
     <td>Python, Flask, scikit-learn (Random Forest), matplotlib,seaborn pandas, numpy, HTML</td>
-    <td><a href="https://github.com/Sharkytony/Used-Car-Price-Prediction-Project" target="_blank">View Repository</a></td>
+    <td><a href="https://github.com/anthonyrodrigues443/Used-Car-Price-Prediction-Project" target="_blank">View Repository</a></td>
   </tr>
 </table>
 
@@ -46,7 +46,7 @@ Contact
     <td>This project involves building a clustering model to segment credit card customers based on their behavior and attributes and a classification model to predict new customer's clusters. The insights from the clusters enable personalized strategies, with a user-friendly Streamlit app for predictions and detailed analysis</td>
     <td>K-means clustering, Multiple classification models, Interactive web interface</td>
     <td>Python, seaborn, scikit-learn, XGBoost, Streamlit</td>
-    <td><a href="https://github.com/Sharkytony/Credit-Card-Customer-Segmentation" target="_blank">View Repository</a></td>
+    <td><a href="https://github.com/anthonyrodrigues443/Credit-Card-Customer-Segmentation" target="_blank">View Repository</a></td>
   </tr>
 </table>
 <br>
