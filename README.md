@@ -53,7 +53,7 @@ Contact
 <h2>🚀 Getting Started</h2>
 <b>
 Browse through the projects listed above
-Click on the repository link of the project you're interested in
+Click on the repository link of the project you're interested in<be>
 Each project repository contains:
 
 Detailed README with setup instructions
