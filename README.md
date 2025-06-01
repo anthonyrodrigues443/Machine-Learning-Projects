@@ -11,7 +11,7 @@ Contact
 </b></pre>
 <br>
 <h2>🎯 Overview</h2>
-<b>This repository serves as an index for my machine learning projects. Each project is contained in its own repository with detailed documentation and implementation. The projects range from basic ML concepts to advanced applications.</b>
+<b>This repository serves as an index for my machine learning projects. Each project is contained in its repository with detailed documentation and implementation. The projects range from basic ML concepts to advanced applications.</b>
 <br><br><br>
 <table>
   <tr><th colspan="5"><h2>Supervised Learning Projects</h2></th></tr>
@@ -43,7 +43,7 @@ Contact
   <tr><th>Project Name</th>    <th>Description</th>    <th>Key Features</th>    <th>Technologies</th>    <th>Repository link</th></tr>
   <tr>
     <td>Credit Card Customer Segmentation</td>
-    <td>This project involves building a clustering model to segment credit card customers based on their behavior and attributes and a classification model to predict new customer's clusters. The insights from the clusters enable personalized strategies, with a user-friendly Streamlit app for predictions and detailed analysis</td>
+    <td>This project involves building a clustering model to segment credit card customers based on their behavior and attributes, and a classification model to predict new customers' clusters. The insights from the clusters enable personalized strategies, with a user-friendly Streamlit app for predictions and detailed analysis</td>
     <td>K-means clustering, Interactive web interface</td>
     <td>Python, seaborn, scikit-learn, Streamlit</td>
     <td><a href="https://github.com/anthonyrodrigues443/Credit-Card-Customer-Segmentation" target="_blank">View Repository</a></td>
@@ -53,12 +53,11 @@ Contact
 <h2>🚀 Getting Started</h2>
 <b>
 Browse through the projects listed above
-Click on the repository link of the project you're interested in<be>
-Each project repository contains:
-
-Detailed README with setup instructions
-Requirements and dependencies
-Usage examples and documentation
+Click on the repository link of the project you're interested in.<br>
+Each project repository contains:<br>
+Detailed README with setup instructions<br>
+Requirements and dependencies<br>
+Usage examples and documentation<br>
 Dataset information (or instructions to obtain data)</b>
 <br><br>
 <h2>🤝 Contributing</h2>
@@ -69,7 +68,7 @@ Dataset information (or instructions to obtain data)</b>
 ➤Push to your branch
 ➤Create a Pull Request</b></pre><br>
 <h2>📫 Contact</h2>
-LinkedIn: [LinkedIn](https://linkedin.com/in/anthonyrodrigues443)
+LinkedIn: <a href="https://linkedin.com/in/anthonyrodrigues443">LinkedIn</a>
 <br>Email: anthonyrodrigues443@gmail.com
 <br><br>
 <h3>⭐ Don't forget to star the repositories if you find them helpful!
